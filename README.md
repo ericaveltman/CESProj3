@@ -1,6 +1,6 @@
 # CESProj3
 
-This project is a music "box" that plays different sounds depending on the amount of light in the room. If it is dark, it plays ocean sounds (like you would use to fall asleep) and if its light, it plays upbeat music (the can be nice have playing in the background during the day).
+This project is a music "box" that plays different sounds depending on the amount of light in the room. If it is dark, it plays ocean sounds (like you would use to fall asleep) and if its light, it plays upbeat music (that can be nice to have playing in the background during the day).
 
 ## What You Need 
 ### Software
